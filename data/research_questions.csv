@@ -1,9 +1,33 @@
-question_id,theme,question,origin,claim_status
-Q01,Funding pathways,Which financial mechanisms were available to different types of creative professionals at a particular date?,P01 / 2025,Research question
-Q02,Eligibility,"How did applicant status, career stage and business form affect funding eligibility and success?",P01 / 2025,Research question
-Q03,Legal classification,Which licensing and occupation classifications affected independent practice?,P01 and P02 / 2025,Legal review proposed
-Q04,Regional access,How did the availability and use of support differ across cities and regions?,P01 and P02 / 2025,Regional analysis proposed
-Q05,Informal participation,Which creative activities were outside the scope of formal program eligibility?,P02 / 2025,Research question
-Q06,Private capital,"What forms of private financing were accessible, and on what terms?",P01 / 2025,Research question
-Q07,Continuity,Did a funding award lead to continuing professional activity after the supported project ended?,P01 and P03 / 2025,Follow-up study proposed
-Q08,Professional infrastructure,"What legal, business, technical and production services could professionals use?",P02 / 2025,Research question
+id,research_stream,theme,question,original_study_design,status
+INF01,Creative infrastructure,Formal and informal infrastructure,Where are the formal and informal support systems for creative professions?,P04,"Research question, not finding"
+INF02,Creative infrastructure,Entry and retention,"Which conditions impede entry, continuing employment, and long-term creative careers?",P04,"Research question, not finding"
+INF03,Creative infrastructure,Overlooked roles,"Which research, academic, technical and archival roles receive inadequate recognition?",P04,"Research question, not finding"
+INF04,Creative infrastructure,Pricing,How are creative professional prices set and understood by clients?,P04,"Research question, not finding"
+INF05,Creative infrastructure,Regional access,How do the availability and costs of services differ across Saudi Arabia's regions?,P04,"Research question, not finding"
+INF06,Creative infrastructure,Returning graduates,What professional routes are available to Saudis returning from studies abroad?,P04,"Research question, not finding"
+INF07,Creative infrastructure,Business and technical support,"Which legal, financial, technical and business services are available to professionals?",P04,"Research question, not finding"
+INF08,Creative infrastructure,Occupational categories,Which specialized professions are missing from employment categories?,P04,"Research question, not finding"
+INF09,Creative infrastructure,International and local expertise,How are international expertise and local professional capability connected?,P04,"Research question, not finding"
+INF10,Creative infrastructure,Institutional continuity,What are the effects of unclear or changing support systems over time?,P04,"Research question, not finding"
+INF11,Creative infrastructure,Coordination,How can institutions and businesses coordinate support responsibilities?,P04,"Research question, not finding"
+INF12,Creative infrastructure,National goals and local needs,How can national planning incorporate regional and disciplinary differences?,P04,"Research question, not finding"
+INF13,Creative infrastructure,Cultural and geographic context,Which structures suit local cultural and geographic conditions?,P04,"Research question, not finding"
+INF14,Creative infrastructure,Historical documentation,Which aspects of the creative sector's development are documented and preserved?,P04,"Research question, not finding"
+FIN01,Financial infrastructure,Funding options,What funding options exist for creative professionals across sectors and regions?,P05,"Research question, not finding"
+FIN02,Financial infrastructure,Eligibility,"What barriers affect applications by career stage, discipline and geography?",P05,"Research question, not finding"
+FIN03,Financial infrastructure,Selection criteria,How are financial support decisions made and evaluated?,P05,"Research question, not finding"
+FIN04,Financial infrastructure,Finance models,Which alternative financing approaches may be locally relevant?,P05,"Research question, not finding"
+FIN05,Financial infrastructure,Financial knowledge,Which financial skills and tools are needed to access funding?,P05,"Research question, not finding"
+FIN06,Financial infrastructure,Professional classification,How do legal statuses and occupations affect eligibility?,P05,"Research question, not finding"
+FIN07,Financial infrastructure,Private capital,Which conditions influence private investment in creative activity?,P05,"Research question, not finding"
+FIN08,Financial infrastructure,Geography,How does geographic concentration affect funding access?,P05,"Research question, not finding"
+FIN09,Financial infrastructure,Accountability,How is funded activity assessed beyond immediate output?,P05,"Research question, not finding"
+FIN10,Financial infrastructure,Long-term continuity,Which conditions permit continuing activity beyond individual public awards?,P05,"Research question, not finding"
+FIN11,Financial infrastructure,Communication,How can professionals discover and understand funding opportunities?,P05,"Research question, not finding"
+FIN12,Financial infrastructure,Underlying capacity,"How can finance support careers, research, education and shared resources?",P05,"Research question, not finding"
+FIN13,Financial infrastructure,Review fairness,How are fair and inclusive funding reviews organized?,P05,"Research question, not finding"
+FIN14,Financial infrastructure,Historic programs,What can be learned from earlier funding initiatives?,P05,"Research question, not finding"
+FIN15,Financial infrastructure,Application readiness,What support is available before an application?,P05,"Research question, not finding"
+FIN16,Financial infrastructure,Informal activity,How might formal finance relate to informal creative activity?,P05,"Research question, not finding"
+FIN17,Financial infrastructure,Governance,Which arrangements can improve transparency and oversight?,P05,"Research question, not finding"
+FIN18,Financial infrastructure,Research and experimentation,"How can financing accommodate research, iteration and longer timelines?",P05,"Research question, not finding"
