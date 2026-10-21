@@ -1,23 +1,46 @@
 # Saudi Creative Sector Research
 
-Independent research by Brandie Janow, begun in **2019**.
+Independent research by **Brandie Janow**, begun in **2019**. Public repository established in 2026.
 
-This repository is the public presentation of an independent record of Saudi Arabia's design industry and creative sector. It focuses on documented change over time, with particular attention to education, employment, professional conditions, institutions, commissioning, procurement, funding, production, and access to opportunities.
+This website presents the research programme, historical source review, dated research proposals, selected public indicators, working papers, methodological limits, and future research questions concerned with Saudi Arabia's design industry and creative sector.
 
-## Publication status
+This is a research publication in development. It is not a completed national survey or a statistical index.
 
-The website is being established in 2026. Beginning the research in 2019 does not mean that every year has the same quantity or type of documented material. Research entries and findings will be published only after their sources, dates, context, and permissions have been checked.
+## Read the publication
 
-This is not the Rukun Saudi Creative Index, and no Rukun confidential research, client records, identifying participant material, or internal files are being published here.
+- [Overview](index.html)
+- [Research programme](research.html)
+- [Working paper 01: Financial infrastructure and creative careers](funding.html)
+- [Evidence and public data](evidence.html)
+- [Timeline, 2019 to 2026](timeline.html)
+- [Future signals](signals.html)
+- [Methods](methods.html)
+- [Sources and notes](sources.html)
 
-## Evidence standard
+## Public data
 
-Each public finding will show its date and source and distinguish direct documentation, participant accounts, firsthand observation, outside benchmarks, and the author's interpretation. Material lacking enough evidence will be marked as unverified or omitted until reviewed.
+- [Public indicators](data/public_indicators.csv), with reference periods, measures, publishers and limitations
+- [Research questions](data/research_questions.csv), explicitly labelled as questions
+- [Future signals](data/future_signals.csv), explicitly labelled as hypotheses rather than findings
 
-## Website
+## Source integrity
 
-The site has the same minimal visual system as [Design Reservoir](https://brandiejanow.github.io/design-reservoir/), including its type, spacing, paper background, and square B favicon.
+The author's original 2025 financial infrastructure and creative economy research briefs are cited as historical documents. A related organizational submission is classified separately. Interviews, surveys, national maps and other outputs proposed in those documents are not presented as completed unless verified source files exist.
 
-To publish through GitHub Pages, select **Settings > Pages**, set the source to **Deploy from a branch**, and choose **main** and **/(root)**.
+The historic archive includes material recorded in different institutional roles, as well as non-research content. The archive is undergoing source and publication-rights review. No personal transcripts, client records, confidential research, participant contacts or controlled organizational files are public here. Rukun's Saudi Creative Index is a separate research project.
 
-© 2026 Brandie Janow. All rights reserved unless a particular item has an explicit reuse license.
+See [research protocol](docs/research_protocol.md).
+
+## Design
+
+The design uses the same source typography, paper background, B mark, and layout family as [Design Reservoir](https://brandiejanow.github.io/design-reservoir/). It is meant to keep long documents readable and data references easy to inspect.
+
+## Publishing
+
+GitHub Pages serves the default branch from the repository root. The public URL is intended to be:
+
+https://brandiejanow.github.io/Saudi-creative-sector-research/
+
+Citations for this evolving website should include the title, author, section, URL, and access date. A formal DOI has not been issued.
+
+© 2026 Brandie Janow. All rights reserved unless a particular dataset has a separate reuse license.
