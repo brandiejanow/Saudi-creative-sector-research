@@ -10,6 +10,10 @@ Each row includes an indicator ID, topic, reference period, reported value, unit
 
 Thirty-two research questions organized across two 2025 study designs: fourteen infrastructure questions and eighteen financial questions. They are research questions, not conclusions, interview results, or evidence that proposed studies were completed.
 
+## qualitative_research_themes.csv
+
+Twelve anonymized topics for the private 2019 to 2026 original qualitative research corpus. These are categories under review rather than national findings. The public register contains no source names or identifying session details.
+
 ## future_signals.csv
 
 Questions about possible change, with the origin period and evidence required. These are not forecasts or statistical findings.
