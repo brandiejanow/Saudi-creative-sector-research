@@ -242,3 +242,8 @@ body.embed .site-nav,body.embed footer{display:none}body.embed .hero{padding-top
 .research-quote{padding-left:20px}
 }
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+
+/* Bibliography appears as plain-text references, not coded reference links. */
+.reference-item{display:block}
+.reference-item>div{max-width:1040px}
+.reference-item .ref-author{margin:0 0 9px}
