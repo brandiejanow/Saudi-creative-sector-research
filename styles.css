@@ -129,3 +129,6 @@ body.embed .site-nav,body.embed footer{display:none}body.embed .hero{padding-top
 .content-label{display:inline-block;font-size:11px;text-transform:uppercase;letter-spacing:.13em;color:#555;margin-top:7px}
 @media(max-width:800px){.entry{grid-template-columns:38px 1fr 22px;gap:13px}.entry-title{grid-column:2}.entry-summary{grid-column:2/4}.entry-link{grid-column:3;grid-row:1}.two-column{grid-template-columns:1fr}}
 @media(max-width:600px){.compact-hero h1{font-size:clamp(42px,11vw,68px);letter-spacing:-.04em}.compact-hero .intro{font-size:19px}.research-sections{padding-bottom:45px}.research-section{padding:31px 0 34px}.research-section h2{font-size:clamp(28px,8vw,42px)}.entry{padding:20px 0}}
+
+/* Keep research index titles at the same modest scale as Design Reservoir rows. */
+.entry .entry-title{font-weight:400;font-size:clamp(19px,2vw,27px);letter-spacing:-.025em;line-height:1.2;margin:0}
