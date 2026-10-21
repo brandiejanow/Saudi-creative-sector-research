@@ -10,7 +10,8 @@ This is a research publication in development. It is not a completed national su
 
 - [Overview](index.html)
 - [Research programme](research.html)
-- [Working paper 01: Financial infrastructure and creative careers](funding.html)
+- [Unseen infrastructures study](infrastructure.html)
+- [Financial infrastructure study](funding.html)
 - [Evidence and public data](evidence.html)
 - [Timeline, 2019 to 2026](timeline.html)
 - [Future signals](signals.html)
@@ -27,7 +28,7 @@ This is a research publication in development. It is not a completed national su
 
 The author's original 2025 financial infrastructure and creative economy research briefs are cited as historical documents. A related organizational submission is classified separately. Interviews, surveys, national maps and other outputs proposed in those documents are not presented as completed unless verified source files exist.
 
-The historic archive includes material recorded in different institutional roles, as well as non-research content. The archive is undergoing source and publication-rights review. No personal transcripts, client records, confidential research, participant contacts or controlled organizational files are public here. Rukun's Saudi Creative Index is a separate research project.
+The original qualitative corpus includes private research collected from 2019 onward, with non-research archival material classified separately. The archive is undergoing source and publication-rights review. No personal transcripts, client records, confidential research, participant contacts or controlled organizational files are public here. Separate institutionally controlled research is not reproduced without publication rights.
 
 See [research protocol](docs/research_protocol.md).
 
