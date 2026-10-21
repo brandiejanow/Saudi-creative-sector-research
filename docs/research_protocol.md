@@ -10,9 +10,9 @@ Examine the development of Saudi Arabia's design industry and creative sector th
 
 ## Corpus boundary
 
-The working historical archive contains mixed material from different organizations and periods. Some recordings are unrelated to research; many remain uncoded; some belong to restricted projects. No raw counts are presented as independent interviews or national study samples until relevance and permissions have been reviewed.
+The archive includes confidential original qualitative research from 2019 onward. Individual source occasions, names, source files and full context remain in a restricted register. Other archival material is excluded when not relevant to the study. No raw counts are presented as independent interviews or national study samples until relevance and permissions have been reviewed.
 
-Do not import Rukun Saudi Creative Index research into this independent project. The user's historic authored grant briefs can support a history of proposed questions, subject to attribution and publication rights; they are not evidence that the proposed study was completed.
+Do not republish institutionally controlled research when ownership or rights are not established. The user's historic authored grant briefs can support a history of proposed questions, subject to attribution and publication rights; they are not evidence that the proposed study was completed.
 
 ## Public release conditions
 
@@ -20,7 +20,7 @@ Every public claim requires source identifier, date, document type, setting, rel
 
 ## Analysis rule
 
-Observe how a question changes across years, but never infer sector-wide prevalence from meeting frequency. Distinguish announcements, funded activities, applicant experiences and later outcomes. Identify contradictory source dates and conflicting testimony instead of silently reconciling them.
+Observe how a question changes across years, but never infer national prevalence from the number of private archival references. Distinguish announcements, funded activities, applicant experiences and later outcomes. Identify contradictory source dates and conflicting testimony instead of silently reconciling them.
 
 ## Versioning
 
