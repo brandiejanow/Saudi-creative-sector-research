@@ -132,3 +132,113 @@ body.embed .site-nav,body.embed footer{display:none}body.embed .hero{padding-top
 
 /* Keep research index titles at the same modest scale as Design Reservoir rows. */
 .entry .entry-title{font-weight:400;font-size:clamp(19px,2vw,27px);letter-spacing:-.025em;line-height:1.2;margin:0}
+
+
+/* Academic publication layout. The original Design Reservoir visual system remains the base. */
+.skip{position:absolute;left:-9999px;top:5px;z-index:1000;background:#111;color:#fff;padding:12px 18px}
+.skip:focus{left:10px}
+.site-nav{gap:22px}
+.site-nav .desktop-nav{align-items:center;gap:clamp(11px,1.5vw,22px)!important}
+.site-nav .desktop-nav a{white-space:nowrap}
+.site-nav nav a[aria-current="page"]{text-decoration:underline;text-underline-offset:6px}
+.site-nav .site-home{max-width:265px;line-height:1.25;white-space:normal}
+.site-nav a:focus-visible,.plain-anchor:focus-visible,.entry a:focus-visible{outline:2px solid var(--ink);outline-offset:5px}
+.journal-hero{padding:clamp(45px,6vw,91px) clamp(22px,7vw,108px) clamp(40px,5.5vw,75px)}
+.journal-hero .eyebrow{font-size:11px;letter-spacing:.16em;margin-bottom:19px}
+.journal-hero h1{max-width:1250px;font-size:clamp(49px,6.7vw,100px);font-weight:400;letter-spacing:-.045em;line-height:1.055}
+.journal-hero .intro{margin:24px 0 30px;font-size:clamp(20px,2.05vw,28px);line-height:1.4;max-width:890px}
+.research-meta{font-size:12px;color:#555;line-height:1.75;margin:0}
+.research-sections{padding:0 clamp(22px,5vw,74px) 100px;max-width:1600px;margin:0 auto}
+.research-section{padding:45px 0 54px;border-bottom:1px solid var(--line)}
+.research-section:last-child{border-bottom:0}
+.research-section h2{max-width:1000px;font-weight:400;font-size:clamp(31px,3.8vw,52px);letter-spacing:-.037em;line-height:1.15;margin:0 0 28px}
+.research-section>p:not(.section-kicker),.research-section>.section-opening~p{font-size:15.5px;line-height:1.83;color:#303030;max-width:920px;margin:0 0 18px}
+.research-section>p:last-child{margin-bottom:0}
+.section-opening{margin-bottom:25px}.section-opening h2{margin-bottom:0}
+.section-kicker{font-size:11px;letter-spacing:.13em;text-transform:uppercase;color:#666;margin:0 0 20px}
+.research-section a:not(.entry-link){text-decoration-thickness:1px;text-underline-offset:4px}
+.journal-abstract{max-width:1200px}
+.document-label{font-size:11px;text-transform:uppercase;color:#666;letter-spacing:.12em;margin-bottom:22px}
+.research-quote{max-width:940px;margin:38px 0 38px;padding:12px 0 14px 32px;border-left:2px solid #111}
+.research-quote p{font-size:clamp(23px,2.9vw,38px);line-height:1.32;font-weight:400;letter-spacing:-.026em;margin:0 0 14px}
+.research-quote cite{display:block;font-style:normal;font-size:12px;line-height:1.6;color:#666}
+.meta-grid{border-top:1px solid var(--line);margin:32px 0 4px;max-width:1050px}
+.meta-grid>div{display:grid;grid-template-columns:minmax(160px,.48fr) minmax(250px,1fr);gap:15px;padding:14px 0;border-bottom:1px solid var(--line)}
+.meta-grid dt{font-size:11px;text-transform:uppercase;letter-spacing:.1em;color:#666}
+.meta-grid dd{margin:0;font-size:14px;line-height:1.6}
+.entry-list{margin-top:12px;border-top:1px solid var(--line)}
+.entry{grid-template-columns:50px minmax(240px,.8fr) minmax(290px,1.2fr) 24px;gap:28px;padding:28px 0}
+.entry .entry-title{font-weight:400;margin:0;font-size:clamp(20px,2.15vw,29px);letter-spacing:-.03em;line-height:1.25}
+.entry .entry-title a{text-decoration:none}
+.entry .entry-title a:hover{text-decoration:underline;text-underline-offset:5px}
+.entry-summary{margin:0;font-size:14px;line-height:1.65;color:#333}
+.entry-index,.chapter-number,.ref-id{font-size:11px;letter-spacing:.06em;color:#777;padding-top:7px}
+.entry-link{color:#111;text-decoration:none;font-size:21px}
+.status-text{display:block;font-size:12px;color:#777;line-height:1.65;margin:6px 0 0}
+.stat-row{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:0;margin:30px 0 15px;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.stat-item{padding:28px 25px 28px 0}
+.stat-item+.stat-item{border-left:1px solid var(--line);padding-left:26px}
+.stat-item strong{display:block;font-size:clamp(30px,4vw,54px);font-weight:400;letter-spacing:-.05em;line-height:1.05;margin-bottom:12px}
+.stat-item span{font-size:13px;color:#454545;line-height:1.65;display:block}
+.caption-text{font-size:12px!important;color:#666!important;line-height:1.7!important;max-width:1000px;margin-top:14px!important}
+.source-ref{font-size:12px}
+.chapter-row{display:grid;grid-template-columns:58px 1fr;gap:25px;align-items:start;padding:24px 0;border-bottom:1px solid var(--line);max-width:1120px}
+.chapter-row:last-child{border-bottom:0}
+.chapter-row h3,.timeline-row h3,.signal-record h3,.reference-item h3{font-size:clamp(21px,2.05vw,29px);line-height:1.2;letter-spacing:-.025em;font-weight:400;margin:0 0 14px}
+.chapter-row p,.timeline-row p,.signal-record p,.reference-item p{font-size:14px;line-height:1.72;color:#393939;max-width:900px;margin:0 0 12px}
+.minor{font-size:12px!important;line-height:1.7!important;color:#555!important}
+.table-wrap{width:100%;max-width:100%;overflow-x:auto;margin:34px 0 19px;border-top:1px solid #111}
+.journal-table{border-collapse:collapse;table-layout:auto;width:100%;min-width:800px}
+.journal-table th,.journal-table td{padding:16px 17px 18px 0;text-align:left;vertical-align:top;border-bottom:1px solid var(--line);font-size:13px;line-height:1.55}
+.journal-table thead th{color:#555;font-size:10px;line-height:1.45;letter-spacing:.1em;text-transform:uppercase;font-weight:600}
+.journal-table tbody th{font-weight:500;min-width:150px}
+.journal-table tbody td{color:#333}
+.journal-table a{overflow-wrap:anywhere}
+.timeline-row{display:grid;grid-template-columns:minmax(105px,.24fr) minmax(0,1fr);gap:42px;border-top:1px solid var(--line);padding:30px 0}
+.timeline-row:last-child{border-bottom:1px solid var(--line)}
+.timeline-row .year{font-size:clamp(30px,3.6vw,47px);font-weight:400;letter-spacing:-.035em;line-height:1.05}
+.signal-record{max-width:1100px;border-top:1px solid var(--line);padding:26px 0 26px}
+.signal-record:last-child{border-bottom:1px solid var(--line)}
+.signal-record .source-code{font-size:11px;color:#777;letter-spacing:.08em;margin-bottom:12px}
+.reference-list{max-width:1150px;border-top:1px solid var(--line)}
+.reference-item{display:grid;grid-template-columns:85px 1fr;gap:18px;padding:24px 0;border-bottom:1px solid var(--line)}
+.reference-item .ref-id{font-weight:600;color:#333}
+.reference-item .ref-author{font-size:11px;color:#777;text-transform:uppercase;letter-spacing:.09em}
+.reference-item p{margin-bottom:8px}
+.research-footer{display:flex;align-items:flex-start;flex-wrap:wrap;justify-content:space-between;gap:18px 40px;padding:30px clamp(22px,5vw,74px);border-top:1px solid var(--line);font-size:12px;color:#555}
+.research-footer p{max-width:800px;line-height:1.65;margin:0}
+.research-footer nav{display:flex;flex-wrap:wrap;gap:12px 25px}
+.research-footer strong{font-weight:500;color:#222}
+@media(max-width:1290px){
+.site-nav{min-height:72px}
+.site-nav .desktop-nav{display:none}
+.site-nav .mobile-nav{display:block;margin-left:auto}
+.site-nav .name{margin-left:0}
+}
+@media(max-width:830px){
+.stat-row{grid-template-columns:1fr;gap:0}
+.stat-item{border-bottom:1px solid var(--line);padding:22px 0!important}
+.stat-item+.stat-item{border-left:0}
+.stat-item:last-child{border-bottom:0}
+.entry{grid-template-columns:39px minmax(0,1fr) 24px;gap:14px}
+.entry-index{grid-row:1}
+.entry .entry-title{grid-column:2;grid-row:1}
+.entry-summary{grid-column:2 / 4;grid-row:2}
+.entry-link{grid-column:3;grid-row:1}
+.entry .status-text{grid-column:2 / 4}
+}
+@media(max-width:620px){
+.journal-hero{padding:38px 22px 42px}
+.journal-hero h1{font-size:clamp(40px,11vw,65px);letter-spacing:-.04em}
+.journal-hero .intro{font-size:18px}
+.research-sections{padding:0 22px 48px}
+.research-section{padding:31px 0 38px}
+.research-section h2{font-size:clamp(27px,8vw,40px)}
+.research-section>p:not(.section-kicker){font-size:15px;line-height:1.75}
+.meta-grid>div{grid-template-columns:1fr;gap:5px}
+.chapter-row{grid-template-columns:35px 1fr;gap:14px}
+.timeline-row{grid-template-columns:1fr;gap:16px}
+.reference-item{grid-template-columns:53px 1fr;gap:12px}
+.research-quote{padding-left:20px}
+}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
