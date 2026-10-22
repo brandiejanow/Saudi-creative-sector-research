@@ -247,3 +247,7 @@ body.embed .site-nav,body.embed footer{display:none}body.embed .hero{padding-top
 .reference-item{display:block}
 .reference-item>div{max-width:1040px}
 .reference-item .ref-author{margin:0 0 9px}
+
+/* Homepage publication metadata follows the introduction rather than preceding the title. */
+.journal-hero .hero-origin{margin:0;color:#666;font-size:11px;line-height:1.7;letter-spacing:.12em;text-transform:uppercase}
+.research-footer .version-note{max-width:850px}
